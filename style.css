@@ -1,0 +1,39 @@
+h1{
+    font-size: 80px;
+    color: red;
+}
+
+
+
+.headTag{
+    font-size: 25px;
+    color: purple;
+}
+
+#peraTag{
+    font-size: 25px;
+    color: crimson;
+}
+
+.list-item{
+    color: black;
+}
+
+#fruit-header{
+    font-size: 45px;
+    font-weight: 500;
+    color: chartreuse;
+}
+
+
+.fruit-item{
+    font-size: 25px;
+    font-weight: 400;
+    color: red;
+}
+
+.custom-class{
+    background-color: crimson !important;
+    font-size: 30px;
+    text-align: center;
+}
